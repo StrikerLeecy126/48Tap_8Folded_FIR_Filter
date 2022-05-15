@@ -44,3 +44,5 @@ Overall Filter Architecture:
 Implementation with Digilent Basys3 FPGA Board:
 ![P%0%0R(27~R542 EWO0GVIJ](https://user-images.githubusercontent.com/76428637/168466018-73eaaef9-f737-47cd-b19a-02f542920d18.jpg)
 
+## Filter Result
+<img width="584" alt="Data" src="https://user-images.githubusercontent.com/76428637/168472758-d0ade4d8-b45e-46bf-b418-cfc764a550e0.png">
