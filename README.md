@@ -1,7 +1,7 @@
 # 48Tap 8 Folded FIR Filter
-Course Project. 8-Fold 48-Tap, 12-bit Fixed Point FIR Filter Designed by myself using Verilog. 
+Course Project. 8-Fold 48-Tap, 12-bit Fixed Point FIR Filter Designed by our team using Verilog. 
 
-Note: This is the DSP Architecture course project that is expected to be examed in 26th May 2022, designed by LWX during March and April 2022, if you are also doing this course project, you may only want to learn the idea from it. Any similar code found during the examination will be supposed as plagiarism and will affect the final result. This line of comment expires after 26th May 2022.
+Note: This is the DSP Architecture course project that is expected to be examed in 26th May 2022, designed by LWX's team during March and April 2022, if you are also doing this course project, you may only want to learn the idea from it. Any similar code found during the examination will be supposed as plagiarism and will affect the final result. This line of comment expires after 26th May 2022.
 
 ## Quantize Filter Taps and create .coe File for Filter Input
 Use "filterDesigner" tools in MATLAB to create a FIR filter you need, export the tap to MATLAB workspace.
